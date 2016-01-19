@@ -1,0 +1,5 @@
+seta_num = int(input())
+seta = set(map(int, input().split(' ')))
+setb_num = int(input())
+setb = set(map(int, input().split(' ')))
+print(len(seta.intersection(setb)))
