@@ -1,17 +1,14 @@
 cnt = int(input())
 s = dict()
-k_list = list()
-for x in range(0,cnt):
-	key = input()
-	value = input()
+
+for x in range(cnt):
+	key = input().strip()
+	value = input().strip()
 	s[key]=value
 
-for x in range(0,cnt):	
-	k_list.append(input())
-
-for x in k_list:
-	if x in s:
-		print(x, "=", s[x], sep="")
+for x in range(cnt):
+	k = input().strip()
+	if k in s:
+		print("{0}={1}".format(k, s[k]))
 	else:
 		print("Not found")
-	
