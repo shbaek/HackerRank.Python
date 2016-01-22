@@ -1,8 +1,8 @@
-N, M = map(int,raw_input().split()) # More than 6 lines of code will result in 0 score. Blank lines are not counted.
-for i in xrange(1,N,2):
+N, M = map(int, input().split())
+for i in range(1, N, 2):
     print ('-'*((M-(i*3))/2)).ljust((M-3*i)/2)+('.|.'*i).center(3*i)+('-'*((M-(i*3))/2)).rjust((M-3*i)/2)
 print ('-'*((M-7)/2))+'WELCOME'+('-'*((M-7)/2))
-for i in xrange(N-2,-1,-2):
+for i in range(N - 2, -1, -2):
     print ('-'*((M-(i*3))/2)).ljust((M-3*i)/2)+('.|.'*i).center(3*i)+('-'*((M-(i*3))/2)).rjust((M-3*i)/2)
 
 # ((M-(2*i)+1)/2)

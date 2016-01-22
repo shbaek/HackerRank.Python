@@ -21,7 +21,7 @@ __author__ = 'shbaek'
    17    21    11 10001
 '''
 #s = 17
-s = int(raw_input())
+s = int(input())
 w = len("{0:b}".format(s))
-for x in xrange(1,s+1):
-    print '{0:{w}d} {0:{w}o} {0:{w}X} {0:{w}b}'.format(x, w=w)
+for x in range(1, s + 1):
+    print('{0:{w}d} {0:{w}o} {0:{w}X} {0:{w}b}'.format(x, w=w))

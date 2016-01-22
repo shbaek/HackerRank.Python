@@ -1,14 +1,8 @@
-from itertools import groupby, combinations
-group = []
-result = []
-tu = ()
+from itertools import groupby
+
 N = input()
-for k,g in groupby(N):
-    group.append(list(g))
-
-#print(group)
-for x in combinations(group,1):
-	print(x, len(x))
+for k, g in groupby(N):
+    print(tuple((len(list(g)), int(k))), end=' ')
 
 
-#1222311
+# 1222311
