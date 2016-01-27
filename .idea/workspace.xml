@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a94c0b0-c2d7-4ece-9405-95d8e42b6490" name="Default" comment="2016-01-26 commit &#10;- fix Regex_start_end">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Domain/Closures_and_Decorators/Standardize_mobile_number_using_Decorators.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Domain/Collections/collections_counter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Domain/Regex_and_Parsing/Regex_substitution.py" />
+    <list default="true" id="9a94c0b0-c2d7-4ece-9405-95d8e42b6490" name="Default" comment="2016-01-27 test commit &#10;">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/30 Day Challenge/day_12.py" afterPath="$PROJECT_DIR$/30 Day Challenge/day_12.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/30 Day Challenge/day_13.py" afterPath="$PROJECT_DIR$/30 Day Challenge/day_13.py" />
@@ -77,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day_12.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="day_12.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/30 Day Challenge/day_12.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.5681063">
+              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -141,7 +138,7 @@
         <entry file="file://$PROJECT_DIR$/Domain/Regex_and_Parsing/Regex_substitution.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="84" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <caret line="19" column="83" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -157,11 +154,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="collections_counter.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="collections_counter.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Domain/Collections/collections_counter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41721854">
-              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -177,7 +174,9 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -224,7 +223,6 @@
         <option value="$PROJECT_DIR$/Domain/Regex_and_Parsing/Regex_Hex_color_code.py" />
         <option value="$PROJECT_DIR$/Domain/Regex_and_Parsing/Regex_validating_phone_number.py" />
         <option value="$PROJECT_DIR$/Domain/Regex_and_Parsing/Regex_start_end.py" />
-        <option value="$PROJECT_DIR$/30 Day Challenge/day_12.py" />
         <option value="$PROJECT_DIR$/30 Day Challenge/day_13.py" />
         <option value="$PROJECT_DIR$/30 Day Challenge/day_14.py" />
         <option value="$PROJECT_DIR$/30 Day Challenge/day_15.py" />
@@ -233,6 +231,7 @@
         <option value="$PROJECT_DIR$/Domain/Regex_and_Parsing/Regex_substitution.py" />
         <option value="$PROJECT_DIR$/Domain/Closures_and_Decorators/Standardize_mobile_number_using_Decorators.py" />
         <option value="$PROJECT_DIR$/Domain/Collections/collections_counter.py" />
+        <option value="$PROJECT_DIR$/30 Day Challenge/day_12.py" />
       </list>
     </option>
   </component>
@@ -398,7 +397,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="SearchEverywhereHistoryKey" value="finditer&#9;null&#9;null&#10;isli&#9;null&#9;null" />
   </component>
@@ -776,7 +775,13 @@
       <option name="project" value="LOCAL" />
       <updated>1453819299991</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="2016-01-27 commit &#10;">
+      <created>1453904118027</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1453904118027</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -785,17 +790,17 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19275825" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26865673" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -824,7 +829,9 @@
     <MESSAGE value="2016-01-25 commit" />
     <MESSAGE value="2016-01-26 commit" />
     <MESSAGE value="2016-01-26 commit &#10;- fix Regex_start_end" />
-    <option name="LAST_COMMIT_MESSAGE" value="2016-01-26 commit &#10;- fix Regex_start_end" />
+    <MESSAGE value="2016-01-27 commit &#10;" />
+    <MESSAGE value="2016-01-27 test commit &#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="2016-01-27 test commit &#10;" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1132,14 +1139,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/30 Day Challenge/day_12.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/30 Day Challenge/day_13.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1183,7 +1182,7 @@
     <entry file="file://$PROJECT_DIR$/Domain/Regex_and_Parsing/Regex_substitution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="84" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <caret line="19" column="83" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1198,8 +1197,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Domain/Collections/collections_counter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41721854">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30 Day Challenge/day_12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5681063">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
           <folding />
         </state>
       </provider>
