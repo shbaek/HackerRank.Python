@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a94c0b0-c2d7-4ece-9405-95d8e42b6490" name="Default" comment="2016-01-26 commit">
+    <list default="true" id="9a94c0b0-c2d7-4ece-9405-95d8e42b6490" name="Default" comment="2016-01-26 commit &#10;- fix Regex_start_end">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Domain/Closures_and_Decorators/Standardize_mobile_number_using_Decorators.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Domain/Collections/collections_counter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Domain/Regex_and_Parsing/Regex_substitution.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/30 Day Challenge/day_12.py" afterPath="$PROJECT_DIR$/30 Day Challenge/day_12.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/30 Day Challenge/day_13.py" afterPath="$PROJECT_DIR$/30 Day Challenge/day_13.py" />
@@ -9,7 +12,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/30 Day Challenge/day_15.py" afterPath="$PROJECT_DIR$/30 Day Challenge/day_15.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/30 Day Challenge/day_16.py" afterPath="$PROJECT_DIR$/30 Day Challenge/day_16.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/30 Day Challenge/day_17.py" afterPath="$PROJECT_DIR$/30 Day Challenge/day_17.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Domain/Regex_and_Parsing/Regex_start_end.py" afterPath="$PROJECT_DIR$/Domain/Regex_and_Parsing/Regex_start_end.py" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,6 +45,7 @@
     <SUITE FILE_PATH="coverage/untitled$set_captain.coverage" NAME="set_captain Coverage Results" MODIFIED="1453555146028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Domain/SET" />
     <SUITE FILE_PATH="coverage/untitled$st_vali.coverage" NAME="st_vali Coverage Results" MODIFIED="1453471515178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Domain/String" />
     <SUITE FILE_PATH="coverage/untitled$itertools_combination_with_replacement.coverage" NAME="itertools.combination_with_replacement Coverage Results" MODIFIED="1453196889407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Domain/ITERTOOLS" />
+    <SUITE FILE_PATH="coverage/untitled$Regex_substitution.coverage" NAME="Regex_substitution Coverage Results" MODIFIED="1453901730929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Domain/Regex_and_Parsing" />
     <SUITE FILE_PATH="coverage/untitled$Exceptions.coverage" NAME="Exceptions Coverage Results" MODIFIED="1453291489713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Domain/Exceptions" />
     <SUITE FILE_PATH="coverage/untitled$day_8.coverage" NAME="day_8 Coverage Results" MODIFIED="1453213059380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/30 Day Challenge" />
     <SUITE FILE_PATH="coverage/untitled$validating_email_with_filter.coverage" NAME="validating_email_with_filter Coverage Results" MODIFIED="1453815950291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Domain/Function" />
@@ -50,6 +53,7 @@
     <SUITE FILE_PATH="coverage/untitled$Regex_validating_phone_number.coverage" NAME="Regex_validating_phone_number Coverage Results" MODIFIED="1453818474601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Domain/Regex_and_Parsing" />
     <SUITE FILE_PATH="coverage/untitled$Regex_start_end.coverage" NAME="Regex_start_end Coverage Results" MODIFIED="1453818749858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Domain/Regex_and_Parsing" />
     <SUITE FILE_PATH="coverage/untitled$day_20.coverage" NAME="day_20 Coverage Results" MODIFIED="1453300195230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/30 Day Challenge" />
+    <SUITE FILE_PATH="coverage/untitled$collections_counter.coverage" NAME="collections_counter Coverage Results" MODIFIED="1453903973981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Domain/Collections" />
     <SUITE FILE_PATH="coverage/untitled$evaluation.coverage" NAME="evaluation Coverage Results" MODIFIED="1453293633918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Domain/Built-Ins" />
     <SUITE FILE_PATH="coverage/untitled$day_11.coverage" NAME="day_11 Coverage Results" MODIFIED="1453214516990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/30 Day Challenge" />
     <SUITE FILE_PATH="coverage/untitled$itertools_combinations.coverage" NAME="itertools_combinations Coverage Results" MODIFIED="1453298931945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Domain/ITERTOOLS" />
@@ -63,61 +67,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Regex_group.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Domain/Regex_and_Parsing/Regex_group.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Regex_start_end.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Regex_start_end.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Domain/Regex_and_Parsing/Regex_start_end.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32826748">
+            <state vertical-scroll-proportion="0.0">
               <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="validating_email_with_filter.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Domain/Function/validating_email_with_filter.py">
+      <file leaf-file-name="day_12.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/30 Day Challenge/day_12.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="21" />
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Regex_validating_email.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Domain/Regex_and_Parsing/Regex_validating_email.py">
+      <file leaf-file-name="day_13.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/30 Day Challenge/day_13.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+              <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Regex_Hex_color_code.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Domain/Regex_and_Parsing/Regex_Hex_color_code.py">
+      <file leaf-file-name="day_14.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/30 Day Challenge/day_14.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Regex_validating_phone_number.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Domain/Regex_and_Parsing/Regex_validating_phone_number.py">
+      <file leaf-file-name="day_15.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/30 Day Challenge/day_15.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="19" />
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day_16.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/30 Day Challenge/day_16.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day_17.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/30 Day Challenge/day_17.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Regex_substitution.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Domain/Regex_and_Parsing/Regex_substitution.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="20" column="84" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Standardize_mobile_number_using_Decorators.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Domain/Closures_and_Decorators/Standardize_mobile_number_using_Decorators.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="collections_counter.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Domain/Collections/collections_counter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.41721854">
+              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -138,14 +182,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/30 Day Challenge/day2.py" />
-        <option value="$PROJECT_DIR$/30 Day Challenge/day3.py" />
-        <option value="$PROJECT_DIR$/30 Day Challenge/day5.py" />
-        <option value="$PROJECT_DIR$/30 Day Challenge/day6.py" />
-        <option value="$PROJECT_DIR$/30 Day Challenge/day7.py" />
-        <option value="$PROJECT_DIR$/Domain/SET/set_captain.py" />
-        <option value="$PROJECT_DIR$/Domain/MATH/Polar_Coordinates.py" />
-        <option value="$PROJECT_DIR$/Domain/SET/set_remove.py" />
         <option value="$PROJECT_DIR$/Domain/SET/set_mutation.py" />
         <option value="$PROJECT_DIR$/Domain/ITERTOOLS/itertools.combination_with_replacement.py" />
         <option value="$PROJECT_DIR$/30 Day Challenge/day_8.py" />
@@ -181,7 +217,6 @@
         <option value="$PROJECT_DIR$/Domain/MATH/Triangle_Quest2.py" />
         <option value="$PROJECT_DIR$/Domain/MATH/Triangle_Quest.py" />
         <option value="$PROJECT_DIR$/Domain/MATH/Find_Angle_MBC.py" />
-        <option value="$PROJECT_DIR$/30 Day Challenge/day_12.py" />
         <option value="$PROJECT_DIR$/Domain/Regex_and_Parsing/Regex_group.py" />
         <option value="$PROJECT_DIR$/Domain/Regex_and_Parsing/Regex_findall_finditer.py" />
         <option value="$PROJECT_DIR$/Domain/Function/validating_email_with_filter.py" />
@@ -189,6 +224,15 @@
         <option value="$PROJECT_DIR$/Domain/Regex_and_Parsing/Regex_Hex_color_code.py" />
         <option value="$PROJECT_DIR$/Domain/Regex_and_Parsing/Regex_validating_phone_number.py" />
         <option value="$PROJECT_DIR$/Domain/Regex_and_Parsing/Regex_start_end.py" />
+        <option value="$PROJECT_DIR$/30 Day Challenge/day_12.py" />
+        <option value="$PROJECT_DIR$/30 Day Challenge/day_13.py" />
+        <option value="$PROJECT_DIR$/30 Day Challenge/day_14.py" />
+        <option value="$PROJECT_DIR$/30 Day Challenge/day_15.py" />
+        <option value="$PROJECT_DIR$/30 Day Challenge/day_16.py" />
+        <option value="$PROJECT_DIR$/30 Day Challenge/day_17.py" />
+        <option value="$PROJECT_DIR$/Domain/Regex_and_Parsing/Regex_substitution.py" />
+        <option value="$PROJECT_DIR$/Domain/Closures_and_Decorators/Standardize_mobile_number_using_Decorators.py" />
+        <option value="$PROJECT_DIR$/Domain/Collections/collections_counter.py" />
       </list>
     </option>
   </component>
@@ -293,6 +337,42 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Collections" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HackerRank.Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Domain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Closures_and_Decorators" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HackerRank.Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Domain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Built-Ins" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -335,25 +415,7 @@
       <recent name="$PROJECT_DIR$/Domain/Date_Time" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Regex_start_end">
-    <configuration default="false" name="Regex_findall_finditer" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Domain/Regex_and_Parsing" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="untitled" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Domain/Regex_and_Parsing/Regex_findall_finditer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.collections_counter">
     <configuration default="false" name="Regex_start_end" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -390,24 +452,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Regex_validating_email" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Domain/Regex_and_Parsing" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="untitled" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Domain/Regex_and_Parsing/Regex_validating_email.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="Regex_validating_phone_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -422,6 +466,42 @@
       <module name="untitled" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Domain/Regex_and_Parsing/Regex_validating_phone_number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Regex_substitution" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Domain/Regex_and_Parsing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Domain/Regex_and_Parsing/Regex_substitution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="collections_counter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Domain/Collections" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Domain/Collections/collections_counter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -621,19 +701,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Regex_findall_finditer" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Regex_start_end" />
-      <item index="2" class="java.lang.String" itemvalue="Python.validating_email_with_filter" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Regex_validating_email" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Regex_validating_phone_number" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Regex_start_end" />
+      <item index="1" class="java.lang.String" itemvalue="Python.validating_email_with_filter" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Regex_validating_phone_number" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Regex_substitution" />
+      <item index="4" class="java.lang.String" itemvalue="Python.collections_counter" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Regex_start_end" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Regex_validating_phone_number" />
-        <item index="2" class="java.lang.String" itemvalue="Python.validating_email_with_filter" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Regex_validating_email" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Regex_findall_finditer" />
+        <item index="0" class="java.lang.String" itemvalue="Python.collections_counter" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Regex_substitution" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Regex_start_end" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Regex_validating_phone_number" />
+        <item index="4" class="java.lang.String" itemvalue="Python.validating_email_with_filter" />
       </list>
     </recent_temporary>
   </component>
@@ -690,26 +770,32 @@
       <option name="project" value="LOCAL" />
       <updated>1453818966418</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2016-01-26 commit &#10;- fix Regex_start_end">
+      <created>1453819299991</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1453819299991</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1922" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19062833" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19275825" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26923078" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26865673" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -737,7 +823,8 @@
     <MESSAGE value="2016-01-24 commit" />
     <MESSAGE value="2016-01-25 commit" />
     <MESSAGE value="2016-01-26 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="2016-01-26 commit" />
+    <MESSAGE value="2016-01-26 commit &#10;- fix Regex_start_end" />
+    <option name="LAST_COMMIT_MESSAGE" value="2016-01-26 commit &#10;- fix Regex_start_end" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -746,48 +833,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Domain/ITERTOOLS/itertools_permutations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Domain/ITERTOOLS/itertools_product.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/30 Day Challenge/day_8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Domain/Built-Ins/zipped.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Domain/Exceptions/Exceptions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Domain/Date_Time/calendar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Domain/Exceptions/Incorrect_regex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1033,35 +1078,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/30 Day Challenge/day_12.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/30 Day Challenge/day_13.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/30 Day Challenge/day_16.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23736264">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Domain/Regex_and_Parsing/Regex_findall_finditer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.098684214">
           <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1077,7 +1097,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1107,8 +1126,80 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Domain/Regex_and_Parsing/Regex_start_end.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32826748">
+        <state vertical-scroll-proportion="0.0">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30 Day Challenge/day_12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30 Day Challenge/day_13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30 Day Challenge/day_14.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30 Day Challenge/day_15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30 Day Challenge/day_16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30 Day Challenge/day_17.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/Regex_and_Parsing/Regex_substitution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="84" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/Closures_and_Decorators/Standardize_mobile_number_using_Decorators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/Collections/collections_counter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41721854">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
           <folding />
         </state>
       </provider>
