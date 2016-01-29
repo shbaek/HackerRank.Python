@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a94c0b0-c2d7-4ece-9405-95d8e42b6490" name="Default" comment="2016-01-28 commit &#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithms/Warmup/Staircase.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Algorithms/Warmup/Time_Conversion.py" />
+    <list default="true" id="9a94c0b0-c2d7-4ece-9405-95d8e42b6490" name="Default" comment="2016-01-30 commit &#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Domain/Collections/deque.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/30 Day Challenge/day_12.py" afterPath="$PROJECT_DIR$/30 Day Challenge/day_12.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/30 Day Challenge/day_13.py" afterPath="$PROJECT_DIR$/30 Day Challenge/day_13.py" />
@@ -11,6 +10,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/30 Day Challenge/day_15.py" afterPath="$PROJECT_DIR$/30 Day Challenge/day_15.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/30 Day Challenge/day_16.py" afterPath="$PROJECT_DIR$/30 Day Challenge/day_16.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/30 Day Challenge/day_17.py" afterPath="$PROJECT_DIR$/30 Day Challenge/day_17.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Algorithms/Warmup/Time_Conversion.py" afterPath="$PROJECT_DIR$/Algorithms/Warmup/Time_Conversion.py" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,7 +48,7 @@
     <SUITE FILE_PATH="coverage/untitled$Regex_substitution.coverage" NAME="Regex_substitution Coverage Results" MODIFIED="1453901730929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Domain/Regex_and_Parsing" />
     <SUITE FILE_PATH="coverage/untitled$Exceptions.coverage" NAME="Exceptions Coverage Results" MODIFIED="1453291489713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Domain/Exceptions" />
     <SUITE FILE_PATH="coverage/untitled$day_8.coverage" NAME="day_8 Coverage Results" MODIFIED="1453213059380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/30 Day Challenge" />
-    <SUITE FILE_PATH="coverage/untitled$Time_Conversion.coverage" NAME="Time_Conversion Coverage Results" MODIFIED="1454081203368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithms/Warmup" />
+    <SUITE FILE_PATH="coverage/untitled$Time_Conversion.coverage" NAME="Time_Conversion Coverage Results" MODIFIED="1454085982938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithms/Warmup" />
     <SUITE FILE_PATH="coverage/untitled$validating_email_with_filter.coverage" NAME="validating_email_with_filter Coverage Results" MODIFIED="1453815950291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Domain/Function" />
     <SUITE FILE_PATH="coverage/untitled$Regex_group.coverage" NAME="Regex_group Coverage Results" MODIFIED="1453726371347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Domain/Regex_and_Parsing" />
     <SUITE FILE_PATH="coverage/untitled$Regex_validating_phone_number.coverage" NAME="Regex_validating_phone_number Coverage Results" MODIFIED="1453818474601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Domain/Regex_and_Parsing" />
@@ -136,7 +136,7 @@
         <entry file="file://$PROJECT_DIR$/Algorithms/Warmup/Staircase.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <caret line="5" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -145,8 +145,18 @@
       <file leaf-file-name="Time_Conversion.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Algorithms/Warmup/Time_Conversion.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.23920266">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="deque.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Domain/Collections/deque.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -169,7 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/30 Day Challenge/day_11.py" />
         <option value="$PROJECT_DIR$/Domain/calendar.py" />
         <option value="$PROJECT_DIR$/Domain/Exceptions/Exceptions.py" />
         <option value="$PROJECT_DIR$/Domain/Exceptions/Incorrect_regex.py" />
@@ -219,6 +228,7 @@
         <option value="$PROJECT_DIR$/Domain/Collections/collections_counter.py" />
         <option value="$PROJECT_DIR$/Domain/Collections/defaultdict.py" />
         <option value="$PROJECT_DIR$/Algorithms/Warmup/Staircase.py" />
+        <option value="$PROJECT_DIR$/Domain/Collections/deque.py" />
         <option value="$PROJECT_DIR$/Algorithms/Warmup/Time_Conversion.py" />
       </list>
     </option>
@@ -768,7 +778,13 @@
       <option name="project" value="LOCAL" />
       <updated>1453992599266</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="2016-01-30 commit &#10;">
+      <created>1454081293118</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1454081293118</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView">
@@ -786,17 +802,17 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20340788" sideWeight="0.4957265" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26865673" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19275825" sideWeight="0.50427353" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -828,7 +844,8 @@
     <MESSAGE value="2016-01-27 commit &#10;" />
     <MESSAGE value="2016-01-27 test commit &#10;" />
     <MESSAGE value="2016-01-28 commit &#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="2016-01-28 commit &#10;" />
+    <MESSAGE value="2016-01-30 commit &#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="2016-01-30 commit &#10;" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -837,13 +854,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Domain/Function/Lambda.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/30 Day Challenge/day_20.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1192,15 +1202,23 @@
     <entry file="file://$PROJECT_DIR$/Algorithms/Warmup/Staircase.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <caret line="5" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Domain/Collections/deque.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms/Warmup/Time_Conversion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.23920266">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
           <folding />
         </state>
       </provider>
